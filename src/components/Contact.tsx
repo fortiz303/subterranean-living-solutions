@@ -45,9 +45,6 @@ const Contact = () => {
               </div>
             </div>
             
-            <Button variant="underground" size="lg" className="w-full">
-              Schedule a Consultation
-            </Button>
           </Card>
 
           <div className="space-y-8">
