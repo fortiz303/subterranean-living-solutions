@@ -33,12 +33,6 @@ const Navigation = () => {
             </div>
           </div>
 
-          {/* CTA Button */}
-          <div className="hidden md:block">
-            <Button variant="default">
-              Partner With Us
-            </Button>
-          </div>
 
           {/* Mobile menu button */}
           <div className="md:hidden">
@@ -73,11 +67,6 @@ const Navigation = () => {
               <a href="#contact" className="block px-3 py-2 text-foreground hover:text-primary">
                 Contact
               </a>
-              <div className="px-3 py-2">
-                <Button variant="default" className="w-full">
-                  Partner With Us
-                </Button>
-              </div>
             </div>
           </div>
         )}

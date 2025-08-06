@@ -78,9 +78,6 @@ const Contact = () => {
               <p className="text-muted-foreground mb-4">
                 Have a specific property in mind? We'd love to discuss the underground potential.
               </p>
-              <Button variant="outline" className="w-full">
-                Submit Property Details
-              </Button>
             </Card>
 
             <Card className="p-6 bg-card border-border">
@@ -90,9 +87,6 @@ const Contact = () => {
               <p className="text-muted-foreground mb-4">
                 Interested in funding subterranean development projects? Let's explore investment partnerships.
               </p>
-              <Button variant="earth" className="w-full">
-                Investment Inquiry
-              </Button>
             </Card>
           </div>
         </div>

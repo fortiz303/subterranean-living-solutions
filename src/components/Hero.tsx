@@ -26,14 +26,6 @@ const Hero = () => {
           Maximizing space, sustainability, and profitability beneath the surface.
         </p>
         
-        <div className="flex flex-col sm:flex-row gap-6 justify-center items-center">
-          <Button variant="underground" size="lg" className="px-8 py-4 text-lg">
-            Explore Solutions
-          </Button>
-          <Button variant="outline" size="lg" className="px-8 py-4 text-lg border-underground-foreground text-underground-foreground hover:bg-underground-foreground hover:text-underground">
-            Partnership Opportunities
-          </Button>
-        </div>
       </div>
       
       {/* Scroll Indicator */}
